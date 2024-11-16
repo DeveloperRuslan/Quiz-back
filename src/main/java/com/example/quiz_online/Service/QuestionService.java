@@ -13,7 +13,7 @@ import java.util.Optional;
 
 /**
  * Сервисный класс для управления вопросами викторины.
- * @author Ruslan Abishev
+ * @автор Руслан Абишев
  */
 @Service
 @RequiredArgsConstructor // Генерация конструктора с обязательными аргументами
